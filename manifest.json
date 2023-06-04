@@ -1,6 +1,6 @@
 {
-    "name": "card_widget",
-    "short_name": "card_widget",
+    "name": "notepad",
+    "short_name": "notepad",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
